@@ -1,6 +1,6 @@
 # 💼 Spring Job App
 
-A Java-based Job Application web application built using **Spring Boot, Java, and JSP**. This project focuses on building a web application using the Spring ecosystem and the MVC architecture.
+A Java-based Job Application web application built using **Spring Boot, Java, and JSP**. This project focuses on building  web application using the Spring ecosystem and the MVC architecture.
 
 ## 📌 About the Project
 
